@@ -1,2 +1,1 @@
-# Fruit Buster
-Collect The Fruits !!!
+# Fruit Catcher
